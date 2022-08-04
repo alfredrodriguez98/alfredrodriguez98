@@ -2,7 +2,7 @@
 
 # Hello, I'm Alfred!
 
-Hello World! I'm Alfred Rodriguez, a curious Blockchain Enthusiast exploring the ecosystem to build secure smart contracts. I'm passionate in designing, building and supporting the distributed blockchain based network around a certain business model. I believe that smart contracts and crypto ecosystem would revolutionalize the entire business process in the upcoming years. The ecosystem is booming with tons of new players striving to make competitive global products.
+A curious Blockchain Enthusiast exploring the ecosystem to build secure smart contracts. I'm passionate in designing, building and supporting the distributed blockchain based network around a certain business model. I believe that smart contracts and crypto ecosystem would revolutionalize the entire business process in the upcoming years. The ecosystem is booming with tons of new players striving to make competitive global products.
 
 As a quick learner and a team player with a proven ability in problem solving and analysis, I'm excited and pumped up in building decentralized applications for the community.
 
