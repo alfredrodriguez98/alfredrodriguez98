@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...go ahead, read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling"/>
 
-# Hello, I'm Alfred!
+# Hello World, I'm Alfred!
 
 A curious Blockchain Enthusiast exploring the ecosystem to build secure smart contracts. I'm passionate in designing, building and supporting the distributed blockchain based network around a certain business model. I believe that smart contracts and crypto ecosystem would revolutionalize the entire business process in the upcoming years. The ecosystem is booming with tons of new players striving to make competitive global products.
 
