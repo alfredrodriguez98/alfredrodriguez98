@@ -11,7 +11,7 @@ Come join me and thousands of other developers across the globe in solving real 
 ## &#x270d; Blog & Writing
 
 Apart from coding, I do publish blogs occassionally- you can find my blogs on
-[Dork Company](https://dorkcompany.com/beware-read-this-before-buying-your-next-processor/).
+[Hashnode](https://alfred-explains.hashnode.dev/).
 
 ## 🔧 Technologies & Tools
 
